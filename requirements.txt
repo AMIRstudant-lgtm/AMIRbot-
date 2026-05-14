@@ -1,4 +1,0 @@
-AMIRbot/
-├── main.py
-├── requirements.txt
-└── Procfile
